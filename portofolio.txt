@@ -6,7 +6,7 @@ Tempat, Tanggal Lahir : Semarang, 19 Oktober 2002
 Jenis Kelamin         : Perempuan
 Agama                 : Katolik
 Golongan Darah        : B
+Pekerjaan             : Mahasiswa
 Angkatan              : 2020
 Fakultas              : Ekonomi dan Bisnis
 Program Studi         : Akuntansi dan Sistem Informasi
-Pekerjaan             : Mahasiswa
