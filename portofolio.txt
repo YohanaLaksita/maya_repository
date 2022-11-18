@@ -1,0 +1,12 @@
+PORTOFOLIO
+--------------------------------------------------
+Nama                  : Yohana Laksita Sandra Amaya
+NIM                   : 20.N3.0018
+Tempat, Tanggal Lahir : Semarang, 19 Oktober 2002
+Jenis Kelamin         : Perempuan
+Agama                 : Katolik
+Golongan Darah        : B
+Angkatan              : 2020
+Fakultas              : Ekonomi dan Bisnis
+Program Studi         : Akuntansi dan Sistem Informasi
+Pekerjaan             : Mahasiswa
