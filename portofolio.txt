@@ -10,3 +10,6 @@ Pekerjaan             : Mahasiswa
 Angkatan              : 2020
 Fakultas              : Ekonomi dan Bisnis
 Program Studi         : Akuntansi dan Sistem Informasi
+Pendidikan Akhir      : SMA
+Kewaganegaraan        : WNI
+Status                : Belum menikah
